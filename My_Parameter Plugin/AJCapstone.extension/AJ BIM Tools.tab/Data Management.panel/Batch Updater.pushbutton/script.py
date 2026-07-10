@@ -28,3 +28,4 @@ try:
     forms.alert("Encryption Success! Look for 'script_locked.py' in your folder.")
 except Exception as e:
     forms.alert("Error: " + str(e))
+    #Change
